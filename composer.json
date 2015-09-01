@@ -3,6 +3,11 @@
     "description": "DBAL modified for DB2Platform limit",
     "require": {
         "php": ">=5.3.0"
-    }
+    },
+    "bin": ["bin/nfrignani-dbal"],
+    "autoload": {
+        "psr-0": { "nfrignani\\DBAL\\": "lib/" }
+    },
+
 }
 
