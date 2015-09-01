@@ -28,7 +28,7 @@
     },
     "autoload-dev": {
         "psr-0": { "Doctrine\\Tests\\": "tests/" }
-    }
+    },
     "archive": {
         "exclude": ["!vendor", "tests", "*phpunit.xml", ".travis.yml", "build.xml", "build.properties", "composer.phar"]
     }
