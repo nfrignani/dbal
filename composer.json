@@ -1,6 +1,6 @@
 {
     "name": "nfrignani/dbal",
-    "minimum-stability": "v1.0.0",
+    "version": "v1.0.0",
     "type": "library",
     "description": "Database Abstraction Layer",
     "keywords": ["dbal", "database", "persistence", "queryobject"],
